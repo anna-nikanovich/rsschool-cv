@@ -16,6 +16,18 @@ Strengths include:
 - Using OOP, Design Patterns 
 - Database Design 
 - Technical Problem Solving, Team Working
+### Skills:
+Front-End: JavaScript, React, Vue.js, Angular, TypeScript, JQuery, HTML, CSS\
+Back-End: .Net Core, .Net Framefork, ASP.NET MVC\WEB API, Node.js\
+Databases: MSSQL, MongoDB, Redis\
+Containers: Docker
+Tools: MS Visual Studio, MS IIS, MS SQL Server Management Studio, Source Tree, Fiddler, Postman, Grafana\
+Source control and project tracking systems: Git, JIRA, GitHub, Bitbucket, TFS, Azure DevOps
+### Professional experience: 9+ years
+- Godel Technologies Europe (Oct 2016 - Present)
+- Cortlex (Oct 2015 - Oct 2016)
+- Wallet One (Aug 2014 - Oct 2015)
+- EPAM Systems (Mar 2013 - Aug 2014)
 ### Education:
 Master of Technical Science - Belarusian State University of Informatics and Radioelectronics, Department of Computer Networks and Systems
 ### Languages:
