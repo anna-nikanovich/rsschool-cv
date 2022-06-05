@@ -29,6 +29,7 @@ Source control and project tracking systems: Git, JIRA, GitHub, Bitbucket, TFS, 
 - Cortlex (Oct 2015 - Oct 2016)
 - Wallet One (Aug 2014 - Oct 2015)
 - EPAM Systems (Mar 2013 - Aug 2014)
+
 ### Education:
 Master of Technical Science - Belarusian State University of Informatics and Radioelectronics, Department of Computer Networks and Systems
 ### Languages:
