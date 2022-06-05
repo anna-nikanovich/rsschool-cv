@@ -16,6 +16,7 @@ Strengths include:
 - Using OOP, Design Patterns 
 - Database Design 
 - Technical Problem Solving, Team Working
+
 ### Skills:
 Front-End: JavaScript, React, Vue.js, Angular, TypeScript, JQuery, HTML, CSS\
 Back-End: .Net Core, .Net Framefork, ASP.NET MVC\WEB API, Node.js\
