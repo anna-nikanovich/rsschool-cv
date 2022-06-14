@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.left-column {
+  background-color: #0a2d56;
+  color: white;
+}
+
+.right-column {
+  color: #0a2d56;
+  text-align: left;
+  border: 1px solid #0a2d56;
+}
+
+.skills-block {
+  padding: 10px;
+  margin: 10px;
+}
+
+.my-photo {
+  border-radius: 50%;
+  max-width: 60%;
+  max-height: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.arrow-icon {
+  width: 40px;
+  height: 20px;
+  margin-left: -7px;
+}
+
+.footer {
+  background-color: #0a2d56;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.github-link {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-year {
+  margin: auto;
+  text-align: center;
+}
+
+.rsschool-link {
+  
+  justify-self: flex-end;
+}
